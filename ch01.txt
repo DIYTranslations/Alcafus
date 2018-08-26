@@ -375,7 +375,7 @@ sfx: THUMP
 sfx: swipe
 
 They're taking her away
-If you cooperate with I'll help you rescue her
+If you cooperate with me I'll help you rescue her
 
 Will you help her...
 Or lets her die? 
